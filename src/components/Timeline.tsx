@@ -21,19 +21,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">University of Haifa</h3>
             <h4 className="vertical-timeline-element-subtitle">Haifa, Israel</h4>
             <p>
-              BSc. of Computer Science
-            </p>
-          </VerticalTimelineElement>
-          <VerticalTimelineElement
-            className="vertical-timeline-element--work"
-            date="2022 - present"
-            iconStyle={{ background: '#5000ca', color: 'rgb(39, 40, 34)' }}
-            icon={<FontAwesomeIcon icon={faBriefcase} />}
-          >
-            <h3 className="vertical-timeline-element-title">PROMNG</h3>
-            <h4 className="vertical-timeline-element-subtitle">Remote</h4>
-            <p>
-              Full-stack Development, API Development, User Experience
+              Introduction to Computer Science, Object Oriented Progmamming, Data Stuctures
             </p>
           </VerticalTimelineElement>
           <VerticalTimelineElement
@@ -47,7 +35,7 @@ function Timeline() {
             <h3 className="vertical-timeline-element-title">Non-profit</h3>
             <h4 className="vertical-timeline-element-subtitle">Furiedis, Israel</h4>
             <p>
-              Full-stack Web Development, GenAI/LLM, Project Management, Business Development
+              Mobile & Cross-Platform Development, GenAI/LLM integration, User Experience
             </p>
           </VerticalTimelineElement>
         </VerticalTimeline>
